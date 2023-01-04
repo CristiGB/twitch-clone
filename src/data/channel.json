@@ -1,0 +1,130 @@
+[
+    {
+        "Channel": "Rubius",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2592e98-5ba6-4c9a-9d9e-cf036d6f64c2-profile_image-50x50.jpg",
+        "NameStream": "El retorno de la leyenda del gaming",
+        "description": "se contar hasta patata",
+        "Category": "Crab Game",
+        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-440x248.jpg",
+        "stream": "",
+        "viewver": "42k",
+        "color":"#e6e219",
+        "tags": [
+            "Español"
+        ]
+    },
+    {
+        "Channel": "ElKevo_",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0113975-2c03-4d3e-9eed-d43c98ecb3bc-profile_image-70x70.png",
+        "NameStream": "Dia de variedad",
+        "description": "Si ves esto eres hermoso Y si alguien te dice lo contrario, tiene razon",
+        "Category": "League of Legends",
+        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elkevo_-440x248.jpg",
+        "stream": "",
+        "viewver": "754",
+        "color":"#8205B3",
+        "tags": [
+            "leagueoflegend",
+            "memes"
+        ]
+    },
+    { "Channel": "ironmouse",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a1313e-f745-45f6-9f36-9d966d9b5962-profile_image-70x70.png",
+    "NameStream": "Play golf w/ Friends. | #VSHOJO | !merch | !youtube | !nord",
+    "description": "Im your cringe demon queen from VShojo",
+    "Category": "Golf With Your Friends",
+    "miniatura": "./multimedia/imgs/ironmouse.png",
+    "streamUrl": "https://www.twitch.tv/ironmouse",
+    "viewver": "8.4k",
+    "color":"#ee8dd9",
+    "tags": [
+        "English",
+        "Anime",
+        "Singing"
+    ]
+    },
+    {
+        "Channel": "coscu",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/4de1a3ee-1b98-4c6c-9ba8-01a1e45c9fb9-profile_image-70x70.png",
+        "NameStream": "Jugamos LoL con los ganadores de la Experiencia BBVA Mastercard",
+        "description": "Martin Pérez Disalvo alias Coscu, embajador de Nike y Lider de la Coscu Army.Hi RP",
+        "Category": "League of Legends",
+        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_coscu-440x248.jpg",
+        "streamUrl": "https://www.twitch.tv/coscu",
+        "viewver": "3.9k",
+        "tags": [
+            "Español"
+        ]
+    },
+    {
+        "Channel": "Juansguarnizo",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/574228be-01ef-4eab-bc0e-a4f6b68bedba-profile_image-70x70.png",
+        "NameStream": "Carreras en el GTA",
+        "description": "Juan Sebastián Guarnizo conocido artísticamente como JuanSGuarnizo (abreviado Juanito), es un productor musical colombiano. Es conocido por sus Juan Music Sessions y sus Juan Freestyle Sessions, sesiones que realiza junto a otros artistas.",
+        "Category": "Grand Theft Auto V",
+        "miniatura": "./imgs/Juansguarnizo.jpg",
+        "stream": "",
+        "viewver": "",
+        "tags": [
+            "Español",
+            "TortillaLand"
+        ]
+    },
+    {
+        "Channel": "Ibai",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/574228be-01ef-4eab-bc0e-a4f6b68bedba-profile_image-70x70.png",
+        "NameStream": "CHARLANDO CON QUEVEDO (EL CANTANTE) JUNTOS DESDE CASA",
+        "description": "Si lees esto que sepas que te aprecio",
+        "Category": "Conversando",
+        "miniatura": "./imgs/Ibai.jpg",
+        "stream": "",
+        "viewver": "34.6k",
+        "tags": [
+            "Español"
+        ]
+    },
+    
+    {
+        "Channel": "Nissaxter",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f01671f9-b022-42eb-9be1-9756a9e17bb8-profile_image-50x50.png",
+        "NameStream": "Intentado ganar la promo",
+        "description": "Rageo mucho, pero no me lo tengas en cuenta ❤️",
+        "Category": "League of Legends",
+        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nissaxter-440x248.jpg",
+        "streamUrl": "https://www.youtube.com/watch?v=aKEzJG7uYPU",
+        "viewver": "4.3k",
+        "tags": [
+            "Español",
+            "Parodia"
+        ]
+    },
+    {
+        "Channel": "Juansguarnizo",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/574228be-01ef-4eab-bc0e-a4f6b68bedba-profile_image-70x70.png",
+        "NameStream": "Carreras en el GTA",
+        "description": "Juan Sebastián Guarnizo conocido artísticamente como JuanSGuarnizo (abreviado Juanito), es un productor musical colombiano. Es conocido por sus Juan Music Sessions y sus Juan Freestyle Sessions, sesiones que realiza junto a otros artistas.",
+        "Category": "Grand Theft Auto V",
+        "miniatura": "./imgs/Juansguarnizo.jpg",
+        "stream": "",
+        "viewver": "",
+        "tags": [
+            "Español",
+            "TortillaLand"
+        ]
+    },
+    {
+        "Channel": "Juansguarnizo",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/574228be-01ef-4eab-bc0e-a4f6b68bedba-profile_image-70x70.png",
+        "NameStream": "Carreras en el GTA",
+        "description": "Juan Sebastián Guarnizo conocido artísticamente como JuanSGuarnizo (abreviado Juanito), es un productor musical colombiano. Es conocido por sus Juan Music Sessions y sus Juan Freestyle Sessions, sesiones que realiza junto a otros artistas.",
+        "Category": "Grand Theft Auto V",
+        "miniatura": "./imgs/Juansguarnizo.jpg",
+        "stream": "",
+        "viewver": "",
+        "tags": [
+            "Español",
+            "TortillaLand"
+        ]
+    }
+    
+]

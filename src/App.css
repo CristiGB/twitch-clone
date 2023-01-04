@@ -1,38 +1,82 @@
-.App {
-  text-align: center;
+.App{
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+.layout{
+    height: 100%;
+    display: flex;
+    overflow: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.layout-main{
+    flex: 1;
+    position: relative;
+    height: 100%;
+    overflow: auto;
+    scroll-behavior: smooth;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/*---------------reusable class--------------*/
+
+img{
+    width: 100%;
+    height: 100%;
 }
 
-.App-link {
-  color: #61dafb;
+.iconChannel{
+    width: 100%;
+    border-radius: 50%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.iconButton{
+    padding: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5rem;
+}
+
+.iconButton:hover{
+    cursor: pointer;
+    background: var(--sidebar-alt); 
+    color: var(--color-white);  
+}
+.info > p{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.tags p{
+    display: inline-block;
+    padding: .1rem .8rem;
+    margin-inline-end: .4rem;
+    margin-block-end: .4rem;
+    background: var(--color-alt);
+    border-radius: 1rem;
+    color: #ffffffb3;
+}
+
+.tags p:hover{
+    cursor: pointer;
+    background: var(--color-light);
+}
+
+/*-------------------scroll----------*/
+
+
+::-webkit-scrollbar{
+   
+    display: none;
+}
+
+::-webkit-scrollbar-thumb{
+    display: block;
+    border-radius: .5rem;
+    background-color: hsl(21, 15%, 26%);
 }

@@ -1,0 +1,185 @@
+.carrusel{
+    min-height: 35rem;
+    padding: 2rem 3rem;
+    margin-block-end: 3rem;
+}
+
+.carrusel_wrapper{
+    height: 30rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.arrow{
+    z-index: 10;
+    width: 3.6rem;
+    height: 3.6rem;
+    font-size: 2.8rem;
+    font-weight: 600;
+    align-self: center;
+    background-color: var(--main-color);
+}
+
+
+
+/*------------------streams-------------------*/
+
+.carrousel_container{
+    position: relative;
+    width: 75rem;
+}
+
+.carrousel__item{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    display: flex;
+    background-color: var(--background-alt);
+    transition: .5s ease-in-out;
+}
+
+
+.video_container{
+    width: 100%;
+}
+
+.video_container img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.video_container:hover{
+    cursor: pointer;
+}
+
+/*------------------------position carrousel--------------------*/
+
+ .carrousel__item-0{
+    z-index: 1;
+    left: -10rem;
+    transform: scale(80%) ;
+}
+
+.carrousel__item-1{
+    z-index: 5;
+    left: -5rem;
+    transform: scale(90%);
+}
+
+.carrousel__item-2{
+    z-index: 10;
+    left: 0;
+    transform: scale(100%);
+}
+
+.carrousel__item-3{
+    z-index: 6;
+    left: 5rem;
+    transform: scale(90%);
+}
+.carrousel__item-4{
+    z-index: 2;
+    left: 10rem;
+    transform: scale(80%);
+}
+
+
+/*---------------------------------------------------------------*/
+.streamCarrousel_noshow{
+    opacity: .5;
+}
+
+.streamCarrousel_noshow .stream__detail,
+.streamCarrousel_noshow .envivo{
+    display: none;
+}
+
+.carrousel__item-0:hover,
+.carrousel__item-4:hover{
+    transform: scale(82%);
+}
+
+.carrousel__item-1:hover,
+.carrousel__item-3:hover{
+    transform: scale(92%);
+}
+
+/*--------------------------Stream Principal------------------*/
+
+.showStream .video_container{
+    position: relative;
+    width: 53rem;
+}
+
+.showStream .video_container > .shadowTop,
+.showStream .video_container > .shadowBttom{
+    position: absolute;
+    width: 100%;
+    height: 6rem;
+    left: 0;
+    background: transparent;
+    transition: 7ms ease;
+}
+.showStream .video_container > .shadowBttom{
+    bottom: 0;
+}
+
+.showStream .video_container:hover .shadowTop{
+    background: linear-gradient( 180deg,rgba(0,0,0,.8) 0%, rgba(0,0,0,.3) 60%, transparent);
+}
+.showStream .video_container:hover .shadowBttom{
+    background: linear-gradient( 0deg,rgba(0,0,0,.8) 0%, rgba(0, 0, 0, 0.3) 60%, transparent);
+}
+
+.videoStream{
+    width: 100%;
+    height: 100%;
+}
+
+
+.envivo{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    padding: 0 .5rem;
+    font-weight: 600;
+    background-color: #e21919;
+    border-radius: 4px;
+}
+
+/*-----------------------------details------------------------*/
+
+.stream__detail{
+    width: 22rem;
+    padding: 1rem;
+}
+
+.stream__detail .iconChannel{
+    width: 5rem;
+    height: 5rem;
+}
+
+.metadata{
+    display: flex;
+    gap: 1rem;
+}
+
+.metadata, .tags{
+    padding-block-end: 1rem;
+}
+
+.channel_name, .channel_category{
+    color: var(--first-color-alt);
+}
+.channel_name:hover, .channel_category:hover{
+    cursor: pointer;
+    color: var( --firt-color);
+    text-decoration-line: underline;
+}
+
+.channel_name{
+    font-weight: 600;
+}
+

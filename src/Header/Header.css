@@ -1,0 +1,154 @@
+
+.header{
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--background-alt);
+    z-index: 100;
+    position: sticky;
+    top: 0;
+    line-height: 1.2;
+    box-shadow: 0px 1px 2px 0px #000000;
+}
+
+.header__left{
+    display: flex;
+    align-items: center;
+}
+
+.home__link{
+    display: flex;
+    height: 100%;
+    width: 5rem;
+    object-fit: contain;
+    padding: 5px;
+    align-items: center;
+}
+
+.home__link figure{
+    height: 4rem;
+}
+
+.icon-bord{
+    fill: var(--firt-color);
+}
+
+.icon-filling,.iconSVG{
+    fill: var(--color-white);
+}
+
+.header__left > p{
+    padding: 0 1rem;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+.header__left >p:hover{
+    cursor: pointer;
+    color: var(--firt-color);
+}
+
+.header__verticalLine i{
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+
+
+/*-----------Barra de busqueda-----------------*/
+
+
+.header__center{
+    height: 3.6rem;
+    display: flex;
+    width: 30%;
+    border-radius: .6rem;
+    overflow: hidden;
+    align-items: center;
+    background-color: var(--color-light);
+}
+
+.header__center .inputSearch{
+    height: 100%;
+    width: 100%;
+    padding: 0 1.5rem 0 1rem;
+    font-family: inherit;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    flex: 1;
+    outline: none;
+    background-color: transparent;
+    border: 2px solid transparent;
+    border-radius: .6rem 0 0 .6rem;
+    color: var(--text-color-light); 
+}
+
+.header__center .inputSearch::placeholder{
+    font-weight: 600;
+    color: var(--text-color-placeholder);
+}
+
+.inputSearch:hover{
+    outline: none;
+    border: 2px solid #ffffff47;
+}
+
+.inputSearch:focus{
+    background-color: #000000;
+    border: 2px solid var(--color-input-focus);
+}
+
+
+.header__centerLogoContainer{
+    height: 100%;
+    padding: 0 .6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-alt);
+    border-left: 1px solid black;
+}
+
+.header__centerLogoContainer i {
+    font-size: 2.2rem;
+    font-weight: 500;
+}
+
+.header__centerLogoContainer:hover{
+    cursor:no-drop;
+    background-color: #363639;
+}
+
+/*----------------Header Right--------------*/
+
+.header__right{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1rem;
+}
+
+.header__rightContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.header__right-icon{
+    font-size: 1.8rem;
+    width: 3rem;
+}
+
+.header__rightBit{
+    display: flex;
+    align-items: center;
+    padding: .5rem 1rem;
+    background-color: var(--color-alt);
+    border-radius: .5rem;
+    margin-right: -1rem;
+    gap: .5rem;
+}
+
+.header_avatarUser{
+    margin-inline-start: 1rem;
+}

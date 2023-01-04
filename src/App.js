@@ -1,23 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './Header';
+import SideBar from './SideBar';
+import Carrusel from './Carrusel';
+import RecoverChannels from './RecoverChannels';
+import channelsRecov from './data/channel.json'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <div className='layout'>
+        <SideBar />
+        <main className='layout-main'>
+          <Carrusel /> 
+          <RecoverChannels link={"Canales en vivo"} title={"que creemos que te gustarán"}
+            channels={channelsRecov.slice(0,3)}/>
+        </main>
+      </div>
     </div>
   );
 }

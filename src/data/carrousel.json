@@ -1,0 +1,80 @@
+[
+    {
+        "Channel": "ElMariana",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0107210e-a98c-409d-92a6-1caf70bb3953-profile_image-50x50.png",
+        "NameStream": "CHAILLIANDO UN RATO",
+        "description": "Me gusta hacer desmadre, jalate y pasemos un buen rato juntos.",
+        "Category": "Conversando",
+        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmariana-440x248.jpg",
+        "streamUrl": "https://www.youtube.com/embed/aKEzJG7uYPU",
+        "viewver": "36.6k",
+        "tags": [
+            "Español",
+            "Locura"
+        ]
+    },
+    
+    {
+        "Channel": "CrystalMolly",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1f5921c-bf2e-4232-9610-b4e2fdd8a64d-profile_image-50x50.png",
+        "NameStream": "Torneo de tetoli",
+        "description": "Desde pequeña soy amante de los Videojuegos, Tengo 2 años en el ambiente Streamer pero recién vengo a probar en esta plataforma. Soy una persona muy relajada y me encanta que se lleven con toda confianza conmigo pero obvio con respeto entre todos.",
+        "Category": "League of Legends",
+        "miniatura": "crystalmolly.jpg",
+        "stream": "crystalmolly.mp4",
+        "streamUrl": "https://www.twitch.tv/crystalmolly",
+        "viewver": "4.3k",
+        "tags": [
+            "Lgbtqiaplus",
+            "Español"
+        ]
+    },
+    {
+        "Channel": "ironmouse",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a1313e-f745-45f6-9f36-9d966d9b5962-profile_image-70x70.png",
+        "NameStream": "Play golf w/ Friends. | #VSHOJO | !merch | !youtube | !nord",
+        "description": "Im your cringe demon queen from VShojo",
+        "Category": "Golf With Your Friends",
+        "miniatura": "ironmouse.png",
+        "stream": "ironmouse.mp4",
+        "streamUrl": "https://www.twitch.tv/ironmouse",
+        "viewver": "8.4k",
+        "tags": [
+            "English",
+            "Anime",
+            "Singing",
+            "PuertoRico",
+            "Vshojo",
+            "Vtuber",
+            "latino",
+            "debut",
+            "VTuber"
+        ]
+    },
+    {
+        "Channel": "disguisedtoast",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/87d3d6ea-da91-4bc5-a200-e85aea765cf8-profile_image-70x70.png",
+        "NameStream": "im in japan",
+        "description": "I'm Toast Business - teamdisguisedtoast@gmail.com",
+        "Category": "Teamfight Tactics",
+        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_disguisedtoast-440x248.jpg",
+        "streamUrl": "https://www.twitch.tv/disguisedtoast",
+        "viewver": "8.4k",
+        "tags": [
+            "English"
+        ]
+    },
+    {
+        "Channel": "coscu",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/4de1a3ee-1b98-4c6c-9ba8-01a1e45c9fb9-profile_image-70x70.png",
+        "NameStream": "Jugamos LoL con los ganadores de la Experiencia BBVA Mastercard",
+        "description": "Martin Pérez Disalvo alias Coscu, embajador de Nike y Lider de la Coscu Army.Hi RP",
+        "Category": "League of Legends",
+        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_coscu-440x248.jpg",
+        "streamUrl": "https://www.twitch.tv/coscu",
+        "viewver": "3.9k",
+        "tags": [
+            "Español"
+        ]
+    }
+]
