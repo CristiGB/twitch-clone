@@ -5,7 +5,8 @@
         "NameStream": "CHAILLIANDO UN RATO",
         "description": "Me gusta hacer desmadre, jalate y pasemos un buen rato juntos.",
         "Category": "Conversando",
-        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmariana-440x248.jpg",
+        "miniatura": "elmariana.png",
+        "stream": "elmariana.mp4",
         "streamUrl": "https://www.youtube.com/embed/aKEzJG7uYPU",
         "viewver": "36.6k",
         "tags": [
@@ -52,26 +53,28 @@
         ]
     },
     {
-        "Channel": "disguisedtoast",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/87d3d6ea-da91-4bc5-a200-e85aea765cf8-profile_image-70x70.png",
-        "NameStream": "im in japan",
-        "description": "I'm Toast Business - teamdisguisedtoast@gmail.com",
-        "Category": "Teamfight Tactics",
-        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_disguisedtoast-440x248.jpg",
-        "streamUrl": "https://www.twitch.tv/disguisedtoast",
-        "viewver": "8.4k",
+        "Channel": "auronplay",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf1d52e3-b46b-4c07-9b4f-a1ab8c4e40f8-profile_image-70x70.png",
+        "NameStream": "THE FOREST CON GENTE DESAGRADABLE",
+        "description": "feliz pero no mucho",
+        "Category": "Conversando",
+        "miniatura": "auronplay.png",
+        "stream": "auronplay.mp4",
+        "streamUrl": "https://www.twitch.tv/auronplay",
+        "viewver": "98.2k",
         "tags": [
-            "English"
+            "Español"
         ]
     },
     {
-        "Channel": "coscu",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/4de1a3ee-1b98-4c6c-9ba8-01a1e45c9fb9-profile_image-70x70.png",
+        "Channel": "papisosa",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e85b3ee6-bbf7-4440-9641-6c0fcd3dfec9-profile_image-70x70.png",
         "NameStream": "Jugamos LoL con los ganadores de la Experiencia BBVA Mastercard",
-        "description": "Martin Pérez Disalvo alias Coscu, embajador de Nike y Lider de la Coscu Army.Hi RP",
+        "description": "Regresamos despues de 4 años, los extrañe 💜",
         "Category": "League of Legends",
-        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_coscu-440x248.jpg",
-        "streamUrl": "https://www.twitch.tv/coscu",
+        "miniatura": "papisosa.png",
+        "stream": "papisosa.mp4",
+        "streamUrl": "https://www.twitch.tv/papisosa",
         "viewver": "3.9k",
         "tags": [
             "Español"

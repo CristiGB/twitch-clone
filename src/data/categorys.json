@@ -1,0 +1,52 @@
+[
+    {
+        "name": "League of Legends",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/21779-188x250.jpg",
+        "viewers": "64.2 k",
+        "tags":[
+            "MOBA",
+            "Accion"
+        ]
+    },
+    {
+        "name": "Conversando",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg",
+        "viewers": "217.7 k",
+        "tags":[
+            "IRL"
+        ]
+    },
+    {
+        "name": "VALORANT",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/516575-285x380.jpg",
+        "viewers": "133.6 k",
+        "tags":[
+            "Shooter"
+        ]
+    },
+    {
+        "name": "Elden Ring",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-285x380.jpg",
+        "viewers": "15.4 k",
+        "tags":[
+            "RPG",
+            "Accion"
+        ]
+    },
+    {
+        "name": "VRChat",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/499003_IGDB-285x380.jpg",
+        "viewers": "2234",
+        "tags":[
+            "Simulacion"
+        ]
+    },
+    {
+        "name": "Teamfight Tactics",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/513143-188x250.jpg",
+        "viewers": "38.003",
+        "tags":[
+            "Estrategia"
+        ]
+    }
+]

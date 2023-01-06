@@ -1,4 +1,4 @@
-.channels__section{
+.section{
     margin: 0 3rem;
 }
 
@@ -12,26 +12,35 @@
     text-decoration: none;
     color: var(--firt-color);
 }
+.card-container{
+    height: 100%;
+}
 
-.container_channels, .preview-detail{
+.card-container, .card-detail{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
     gap: 1rem;
 }
 
+
 .channel-wrapper{
+    flex-grow: 1;
     width: 33.5rem;
     max-width: 50%;
+    min-width: 20%;
 }
 
 /*---------------------preview---------------*/
 
-.previewBox{
+.cardBox{
     position: relative;
-    width: 33.3rem;
 }
 
+.channel-wrapper .cardBox{
+    width: 100%;
+    height: 56.25%;
+}
 
 .shadowRight{
     position: absolute;
@@ -39,7 +48,7 @@
     bottom: 0;
     top: 0;
     width: .5rem;
-    background-color: var(--channel-color);
+    background-color: var(--card-color);
 }
 
 .shadowRight::before{
@@ -50,14 +59,14 @@
     top: 0;
     height: 0;
     border-block-start: .5rem solid transparent;
-    border-inline-end:  .5rem solid var(--channel-color);
+    border-inline-end:  .5rem solid var(--card-color);
     transform-origin: left center;
     transform: translateY(0rem) scale(0);
     transition: .2s ease;
 }
 
 
-.previewBox:hover .shadowRight::before{
+.cardBox:hover .shadowRight::before{
     transform: translateY(-.5rem) scale(1);
 }
 
@@ -66,9 +75,9 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    width: 100%;
+    right: 0;
     height: .5rem;
-    background-color: var(--channel-color);
+    background-color: var(--card-color);
 }
 
 .shadowLeft::before{
@@ -79,23 +88,25 @@
     right: 0;
     bottom: 0;
     border-inline-end: .5rem solid transparent;
-    border-block-start: .5rem solid var(--channel-color);
+    border-block-start: .5rem solid var(--card-color);
     transform-origin: center bottom;
     transform: translateX(0rem) scaleY(0);
     transition: .2s ease;
 }
 
 
-.previewBox:hover .shadowLeft::before{
+.cardBox:hover .shadowLeft::before{
     transform: translateX(.5rem) scaleY(1);
 }
-
+.cardBox:hover .shadowLeft{
+    transform: scaleY(1);
+}
 
 
 .previewStream{
     position: relative;
-    height: 18.7rem;
     width: 100%;
+    height: 100%;
     transition: .2s;
 }
 
@@ -109,7 +120,7 @@
 }
 
 
-.previewBox:hover .previewStream{
+.cardBox:hover .previewStream{
     cursor: pointer;
     transform: translate3d(.5rem, -.5rem, 0);
 }
@@ -117,42 +128,42 @@
 
 /*------------------------detalles de stream------------------*/
 
-.preview-detail{
-    margin-block-end: 2rem;
+.card-detail{
+    margin-block-end: 1rem;
     margin-block-start: 1rem;
 }
 
-.preview-detail, .info{
+.card-detail, .info{
     width: 100%;
     min-width: 0;
 }
 
-.preview-detail .iconChannel{
+.card-detail .iconChannel{
     width: 4rem;
     height: 4rem;
 }
 
-.preview-detail .info > p{
+.card-detail .info > p{
     color: var(--text-color-light);
 }
 
-.preview-detail .info > p:first-child{
+.card-detail .info > p:first-child{
     font-size: 1.4rem;
     font-weight: 600;
     color: var(--color-white);
     margin-block-end: .3rem;
 }
-.preview-detail .info > p:nth-child(3){
+.card-detail .info > p:nth-child(3){
     display: inline-block;
 }
 
-.preview-detail .info > p:first-child:hover,
-.preview-detail .info > p:nth-child(3):hover{
+.card-detail .info > p:first-child:hover,
+.card-detail .info > p:nth-child(3):hover{
     color: var(--firt-color);
 }
 
-.preview-detail .info > p:hover,
-.preview-detail .iconChannel:hover{
+.card-detail .info > p:hover,
+.card-detail .iconChannel:hover{
     cursor: pointer;
 }
 
@@ -197,12 +208,12 @@
     content: "";
     flex-grow: 1;
     height: .1rem;
-    background-color: var(--color-light);
+    background-color: var(--line-lighten);
 }
 .watchMore-Wrapper::after{
     content: "";
     flex-grow: 1;
     height: .1rem;
-    background-color: var(--color-light);
+    background-color: var(--line-lighten);
 }
 

@@ -1,0 +1,30 @@
+.Footer{
+    width: 100%;
+    padding-block-start: 7rem;
+    padding-block-end: 3rem;
+    text-align: center;
+}
+
+.footer-text{
+    display: flex;
+    font-size: 1.4rem;
+    justify-content: center;
+    align-items: center;
+    color: #ffffffb3;
+}
+.footer-text:hover{
+    cursor: pointer;
+    color: var(--firt-color);
+}
+
+.footer-img{
+    margin: 0 .5rem;
+    font-size: 1.8rem;
+    color: var(--firt-color);
+}
+
+.footer-text:hover .footer-img{
+    color: #ffffffb3;
+}
+
+

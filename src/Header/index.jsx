@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className='header'>
         <div className="header__left">
-          <div className="home__link">
+          <a href="https://www.twitch.tv/" className="home__link">
             <figure>
               <svg overflow="visible" width="40px" height="40px" version="1.1" viewBox="0 0 40 40" x="0px" y="0px">
                 <g>
@@ -18,7 +18,7 @@ function Header() {
                 </g>
               </svg>
             </figure>
-          </div>
+          </a>
           <p>Siguiendo</p>
           <p>Explorar</p>
           <div className="header__verticalLine ">

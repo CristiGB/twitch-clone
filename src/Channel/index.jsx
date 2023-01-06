@@ -5,7 +5,7 @@ function Channel({avatar, name, viewvers, category}) {
   return (
     <div className='channel'>
         <img className="iconChannel" src={avatar} alt="avatar" />  
-        <div className="channel__details">         
+        <div className="channel__details info">         
             <h4>{name}</h4>
             <p className='subTitle'>{category}</p>
         </div>

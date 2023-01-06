@@ -3,20 +3,33 @@ import Header from './Header';
 import SideBar from './SideBar';
 import Carrusel from './Carrusel';
 import RecoverChannels from './RecoverChannels';
-import channelsRecov from './data/channel.json'
+import RecommenCategorys from './RecommendCategorys';
+import RecoverCategorys from './RecoverCategorys';
+import Footer from './Footer';
+import channelsRecov from './data/channel.json';
+import categorys from './data/categorys.json'
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <div className='layout'>
+      <main className='layout'>
         <SideBar />
-        <main className='layout-main'>
+        <div className='layout-main'>
           <Carrusel /> 
-          <RecoverChannels link={"Canales en vivo"} title={"que creemos que te gustarán"}
+            <RecoverChannels link={"Canales en vivo"} title={"que creemos que te gustarán"}
             channels={channelsRecov.slice(0,3)}/>
-        </main>
-      </div>
+
+            <RecommenCategorys link={"Categorías"} title={"que podrían gustarte"}
+            categorys={categorys}/>
+            <RecoverCategorys />
+
+            <RecoverChannels title={"Lo más visto"}
+            channels={channelsRecov.slice(3,6)}/>
+
+            <Footer />
+        </div>
+      </main>
     </div>
   );
 }

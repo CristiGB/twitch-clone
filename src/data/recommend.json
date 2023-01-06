@@ -7,24 +7,40 @@
         "viewver": "800"
     },
     {
-        "Channel": "ironmouse",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a1313e-f745-45f6-9f36-9d966d9b5962-profile_image-70x70.png",
-        "NameStream": "Play golf w/ Friends. | #VSHOJO | !merch | !youtube | !nord",
-        "Category": "Golf With Your Friends",
-        "viewver": "8.4k"
+        "Channel": "natalan",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/1912ddb4-0963-40d1-a529-a96807ec2a8e-profile_image-70x70.png",
+        "NameStream": "Jugando con las patas",
+        "Category": "Door Kickers: Action Squad",
+        "stream":"",
+        "viewver": "1.5k"
     },
     {
-        "Channel": "ironmouse",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a1313e-f745-45f6-9f36-9d966d9b5962-profile_image-70x70.png",
-        "NameStream": "Play golf w/ Friends. | #VSHOJO | !merch | !youtube | !nord",
-        "Category": "Golf With Your Friends",
-        "viewver": "8.4k"
+        "Channel": "IlloJuan",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/37454f0e-581b-42ba-b95b-416f3113fd37-profile_image-70x70.png",
+        "NameStream": "Empezando con toda",
+        "Category": "Conversando",
+        "stream": "https://www.twitch.tv/illojuan",
+        "viewver": "47.6k"
     },
     {
-        "Channel": "ironmouse",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a1313e-f745-45f6-9f36-9d966d9b5962-profile_image-70x70.png",
-        "NameStream": "Play golf w/ Friends. | #VSHOJO | !merch | !youtube | !nord",
-        "Category": "Golf With Your Friends",
-        "viewver": "8.4k"
+        "Channel": "MiouVT",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b671f92f-1013-4754-a834-26502bfb395d-profile_image-150x150.png",
+        "NameStream": "Haciendo un 12hs 🇦🇷 !DISCORD !ext !redes",
+        "Category": "Minecraft",
+        "viewver": "772"
+    },
+    {
+        "Channel": "NimuVT",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/52e178bf-424f-49ca-b180-de9bcc02938c-profile_image-50x50.png",
+        "NameStream": "HOY VOLVEMOS CON LOS DIRECTOS. FULL MOTIVACION.",
+        "Category": "Conversando",
+        "viewver": "3.7k"
+    },
+    {
+        "Channel": "LuxuryusGamer",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f66fc21e-9420-4cf8-af67-cdc7ba8b3c68-profile_image-50x50.png",
+        "NameStream": "✨VAMOS QTRANS! HOY ES EL TORNEO✨",
+        "Category": "League of Legends",
+        "viewver": "128"
     }
 ]

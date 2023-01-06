@@ -23,6 +23,10 @@
 
 /*---------------reusable class--------------*/
 
+a{
+    text-decoration: none;
+}
+
 img{
     width: 100%;
     height: 100%;
@@ -60,6 +64,7 @@ img{
     background: var(--color-alt);
     border-radius: 1rem;
     color: #ffffffb3;
+    font-weight: 600;
 }
 
 .tags p:hover{
@@ -80,3 +85,4 @@ img{
     border-radius: .5rem;
     background-color: hsl(21, 15%, 26%);
 }
+

@@ -22,7 +22,7 @@ function Carrousel() {
     }
 
     useEffect(() => {
-       
+
     },[])
 
   return (
@@ -44,7 +44,7 @@ function Carrousel() {
                             <a href={stream.streamUrl}>
                                {myCarrousel.indexOf(stream) !==2 ?
                                 <img src={`./multimedia/imgs/${stream.miniatura}`} alt='minuatura carrousel'/> :
-                                <video controls loop className='videoStream'>
+                                <video autoPlay controls loop webkit-playsinline="true" playsInline className='videoStream'>
                                     <source src={`./multimedia/videos/${stream.stream}`} type='video/mp4'/>
                                 </video>
                                 }
@@ -65,7 +65,7 @@ function Carrousel() {
                                     <p>{tag}</p>
                                 ))}
                             </div>
-                            <p className="description">{stream.description}</p>
+                            <p className="description description-fall">{stream.description}</p>
                         </div>
                     </div>
                 

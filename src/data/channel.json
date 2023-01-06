@@ -5,8 +5,8 @@
         "NameStream": "El retorno de la leyenda del gaming",
         "description": "se contar hasta patata",
         "Category": "Crab Game",
-        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rubius-440x248.jpg",
-        "stream": "",
+        "miniatura": "rubius.jpg",
+        "streamUrl": "https://www.twitch.tv/Rubius",
         "viewver": "42k",
         "color":"#e6e219",
         "tags": [
@@ -19,8 +19,8 @@
         "NameStream": "Dia de variedad",
         "description": "Si ves esto eres hermoso Y si alguien te dice lo contrario, tiene razon",
         "Category": "League of Legends",
-        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elkevo_-440x248.jpg",
-        "stream": "",
+        "miniatura": "elkevo_.png",
+        "streamUrl": "https://www.twitch.tv/ElKevo_",
         "viewver": "754",
         "color":"#8205B3",
         "tags": [
@@ -33,7 +33,7 @@
     "NameStream": "Play golf w/ Friends. | #VSHOJO | !merch | !youtube | !nord",
     "description": "Im your cringe demon queen from VShojo",
     "Category": "Golf With Your Friends",
-    "miniatura": "./multimedia/imgs/ironmouse.png",
+    "miniatura": "ironmouse.png",
     "streamUrl": "https://www.twitch.tv/ironmouse",
     "viewver": "8.4k",
     "color":"#ee8dd9",
@@ -44,42 +44,48 @@
     ]
     },
     {
-        "Channel": "coscu",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/4de1a3ee-1b98-4c6c-9ba8-01a1e45c9fb9-profile_image-70x70.png",
-        "NameStream": "Jugamos LoL con los ganadores de la Experiencia BBVA Mastercard",
-        "description": "Martin Pérez Disalvo alias Coscu, embajador de Nike y Lider de la Coscu Army.Hi RP",
-        "Category": "League of Legends",
-        "miniatura": "https://static-cdn.jtvnw.net/previews-ttv/live_user_coscu-440x248.jpg",
-        "streamUrl": "https://www.twitch.tv/coscu",
-        "viewver": "3.9k",
+        "Channel": "ElSpreen",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4885242-febf-4a11-a42a-a0ad52474ee2-profile_image-50x50.png",
+        "NameStream": "🛑 HOY 🛑 🥵  NOS PASAMOS MINECRAFT CON KARL 🥵 🛑",
+        "description": "Que onda gente",
+        "Category": "Minecraft",
+        "miniatura": "elspreen.png",
+        "streamUrl": "https://www.twitch.tv/elspreen",
+        "viewver": "75.1k",
+        "color": "#ffffff",
         "tags": [
+            "Español",
+            "spreen"
+        ]
+    },
+    {
+        "Channel": "aldo_geo",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/51984fc0-a31a-413c-b1b8-3331bdf6d036-profile_image-70x70.png",
+        "NameStream": "hace 1 año que no hago directo 😂😂😂 || !redes !reddit !discord",
+        "description": "xd",
+        "Category": "Conversando",
+        "miniatura": "aldogeo.png",
+        "streamUrl": "https://www.twitch.tv/aldo_geo",
+        "viewver": "7k",
+        "color": "#FA2929",
+        "tags": [
+            "DropActivados",
             "Español"
         ]
     },
     {
-        "Channel": "Juansguarnizo",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/574228be-01ef-4eab-bc0e-a4f6b68bedba-profile_image-70x70.png",
-        "NameStream": "Carreras en el GTA",
-        "description": "Juan Sebastián Guarnizo conocido artísticamente como JuanSGuarnizo (abreviado Juanito), es un productor musical colombiano. Es conocido por sus Juan Music Sessions y sus Juan Freestyle Sessions, sesiones que realiza junto a otros artistas.",
-        "Category": "Grand Theft Auto V",
-        "miniatura": "./imgs/Juansguarnizo.jpg",
-        "stream": "",
-        "viewver": "",
-        "tags": [
-            "Español",
-            "TortillaLand"
-        ]
-    },
-    {
-        "Channel": "Ibai",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/574228be-01ef-4eab-bc0e-a4f6b68bedba-profile_image-70x70.png",
-        "NameStream": "CHARLANDO CON QUEVEDO (EL CANTANTE) JUNTOS DESDE CASA",
-        "description": "Si lees esto que sepas que te aprecio",
+        "Channel": "Jaidefinichon",
+        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/jaidefinichon-profile_image-086e5ddb212dff6f-70x70.png",
+        "NameStream": "SOY JURADO DE LOS ESPAÑOLES ESLAND // !Social Sigan a Coolbet en Instagram✨",
+        "description": "Jaidefinichon hace streams de Conversando, Call of Duty: Warzone y Minecraft.",
         "Category": "Conversando",
-        "miniatura": "./imgs/Ibai.jpg",
-        "stream": "",
-        "viewver": "34.6k",
+        "miniatura": "jaidefinichon.png",
+        "streamUrl": "https://www.twitch.tv/jaidefinichon",
+        "viewver": "3.5k",
+        "color": "#FA2929", 
         "tags": [
+            "chileno",
+            "DropActivados",
             "Español"
         ]
     },
