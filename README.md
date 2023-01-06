@@ -1,9 +1,9 @@
 # TWITCH CLONE WITH REACT
 
-clone of twitch web home page. No use libreries or dependencies.
+Clone of twitch web home page. No use libreries or dependencies.
 
 # Run
-git clone https://github.com/CristiGB/twitch-clone
+git clone "https://github.com/CristiGB/twitch-clone"
 
 npm run start
 
