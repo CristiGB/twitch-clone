@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/twitch-clone/static/css/main.80468f32.css",
-    "main.js": "/twitch-clone/static/js/main.62d62874.js",
+    "main.js": "/twitch-clone/static/js/main.f259337e.js",
     "static/js/787.2f8651a9.chunk.js": "/twitch-clone/static/js/787.2f8651a9.chunk.js",
     "index.html": "/twitch-clone/index.html",
     "main.80468f32.css.map": "/twitch-clone/static/css/main.80468f32.css.map",
-    "main.62d62874.js.map": "/twitch-clone/static/js/main.62d62874.js.map",
+    "main.f259337e.js.map": "/twitch-clone/static/js/main.f259337e.js.map",
     "787.2f8651a9.chunk.js.map": "/twitch-clone/static/js/787.2f8651a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80468f32.css",
-    "static/js/main.62d62874.js"
+    "static/js/main.f259337e.js"
   ]
 }
