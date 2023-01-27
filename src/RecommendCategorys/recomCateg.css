@@ -13,6 +13,7 @@
 
 .container_categorys{
     min-width: 100%;
+    padding-block-start: .5rem;
     overflow-x: auto;
 }
 

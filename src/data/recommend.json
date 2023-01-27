@@ -1,14 +1,14 @@
 [
     {
         "Channel": "ElKevo_",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a0113975-2c03-4d3e-9eed-d43c98ecb3bc-profile_image-70x70.png",
+        "logo": "elkevo.png",
         "NameStream": "Dia de variedad",
         "Category": "League of Legends",
         "viewver": "800"
     },
     {
         "Channel": "natalan",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/1912ddb4-0963-40d1-a529-a96807ec2a8e-profile_image-70x70.png",
+        "logo": "natalan.png",
         "NameStream": "Jugando con las patas",
         "Category": "Door Kickers: Action Squad",
         "stream":"",
@@ -16,7 +16,7 @@
     },
     {
         "Channel": "IlloJuan",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/37454f0e-581b-42ba-b95b-416f3113fd37-profile_image-70x70.png",
+        "logo": "Ilojuan.png",
         "NameStream": "Empezando con toda",
         "Category": "Conversando",
         "stream": "https://www.twitch.tv/illojuan",
@@ -24,21 +24,21 @@
     },
     {
         "Channel": "MiouVT",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b671f92f-1013-4754-a834-26502bfb395d-profile_image-150x150.png",
+        "logo": "MiouVT.png",
         "NameStream": "Haciendo un 12hs 🇦🇷 !DISCORD !ext !redes",
         "Category": "Minecraft",
         "viewver": "772"
     },
     {
         "Channel": "NimuVT",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/52e178bf-424f-49ca-b180-de9bcc02938c-profile_image-50x50.png",
+        "logo": "NimuVT.png",
         "NameStream": "HOY VOLVEMOS CON LOS DIRECTOS. FULL MOTIVACION.",
         "Category": "Conversando",
         "viewver": "3.7k"
     },
     {
         "Channel": "LuxuryusGamer",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f66fc21e-9420-4cf8-af67-cdc7ba8b3c68-profile_image-50x50.png",
+        "logo": "luxuryus.png",
         "NameStream": "✨VAMOS QTRANS! HOY ES EL TORNEO✨",
         "Category": "League of Legends",
         "viewver": "128"

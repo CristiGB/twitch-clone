@@ -21,7 +21,7 @@ function index({link,title, channels}) {
               </div>
 
               <div className="card-detail">
-                <img className='iconChannel' src={channel.logo} alt="" />
+                <img className='iconChannel' src={`./multimedia/imgs/profile/${channel.logo}`} alt="" />
 
                   <div className="info">
                     <p>{channel.NameStream}</p>

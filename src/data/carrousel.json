@@ -1,7 +1,7 @@
 [
     {
         "Channel": "ElMariana",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0107210e-a98c-409d-92a6-1caf70bb3953-profile_image-50x50.png",
+        "logo": "elmariana.png",
         "NameStream": "CHAILLIANDO UN RATO",
         "description": "Me gusta hacer desmadre, jalate y pasemos un buen rato juntos.",
         "Category": "Conversando",
@@ -17,7 +17,7 @@
     
     {
         "Channel": "CrystalMolly",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1f5921c-bf2e-4232-9610-b4e2fdd8a64d-profile_image-50x50.png",
+        "logo": "crytalmolly.png",
         "NameStream": "Torneo de tetoli",
         "description": "Desde pequeña soy amante de los Videojuegos, Tengo 2 años en el ambiente Streamer pero recién vengo a probar en esta plataforma. Soy una persona muy relajada y me encanta que se lleven con toda confianza conmigo pero obvio con respeto entre todos.",
         "Category": "League of Legends",
@@ -32,7 +32,7 @@
     },
     {
         "Channel": "ironmouse",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3a1313e-f745-45f6-9f36-9d966d9b5962-profile_image-70x70.png",
+        "logo": "ironmouse.png",
         "NameStream": "Play golf w/ Friends. | #VSHOJO | !merch | !youtube | !nord",
         "description": "Im your cringe demon queen from VShojo",
         "Category": "Golf With Your Friends",
@@ -54,7 +54,7 @@
     },
     {
         "Channel": "auronplay",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf1d52e3-b46b-4c07-9b4f-a1ab8c4e40f8-profile_image-70x70.png",
+        "logo": "auronplay.png",
         "NameStream": "THE FOREST CON GENTE DESAGRADABLE",
         "description": "feliz pero no mucho",
         "Category": "Conversando",
@@ -68,7 +68,7 @@
     },
     {
         "Channel": "papisosa",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e85b3ee6-bbf7-4440-9641-6c0fcd3dfec9-profile_image-70x70.png",
+        "logo": "papisosa.png",
         "NameStream": "Jugamos LoL con los ganadores de la Experiencia BBVA Mastercard",
         "description": "Regresamos despues de 4 años, los extrañe 💜",
         "Category": "League of Legends",

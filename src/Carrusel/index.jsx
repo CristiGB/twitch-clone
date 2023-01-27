@@ -53,7 +53,7 @@ function Carrousel() {
                         
                         <div className="stream__detail">
                             <div className="metadata">
-                                <img src={stream.logo} alt="" className="iconChannel" />
+                                <img src={`./multimedia/imgs/profile/${stream.logo}`} alt="" className="iconChannel" />
                                 <div className="info">
                                     <p className="channel_name">{stream.Channel}</p>
                                     <p className="channel_category">{stream.Category}</p>
